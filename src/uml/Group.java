@@ -63,4 +63,5 @@ public class Group extends Traveler {
 
 		return pointAmount;
 	}
+
 }
